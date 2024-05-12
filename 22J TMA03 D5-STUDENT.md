@@ -866,7 +866,7 @@ Now outline the expected performance of the operations on graphs and other data 
 
 Write your answer to Q2(a)(iii) here
 <br>
-<table style="width:100%; background-color: #f2f2f2;">
+<table style="width:100%">
     <tr>
         <th>
             Operation
